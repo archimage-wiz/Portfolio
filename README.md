@@ -1,9 +1,9 @@
 <img src="2022-09-14_11-15-31.png" align="left" width="150" height="150">
 
-#### Igor Potakhin
+<h2>Igor Potakhin</h2>
 <strong>Phone:</strong> <em>+7.921.623.1771</em>
 <strong>E-Mail:</strong> <em>archimage@yandex.ru</em>
-##### C++ & Java - Developer
+<h5>C++ & Java - Developer</h5>
 
 βeta ver. in progress.<br>
 
