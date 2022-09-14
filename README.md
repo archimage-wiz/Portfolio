@@ -7,4 +7,4 @@ Personal project history page.
 
 ## catalog
 
-[Life game demo](https://replit.com/@archimage/CPPCurs1Life)
+<a href="https://replit.com/@archimage/CPPCurs1Life" target="_blank">[Life game demo]</a>
