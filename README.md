@@ -1,5 +1,5 @@
-# Portfolio
-Personal project history page.
+
+
 
 ## igor potakhin
 
@@ -10,6 +10,8 @@ Personal project history page.
 [CodePen](https://codepen.io/archimage_wiz) demo page.<br>
 
 ## catalog
+
+project history page.
 
 - [Life game demo](https://replit.com/@archimage/CPPCurs1Life)
 - #
