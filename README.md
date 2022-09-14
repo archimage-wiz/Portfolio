@@ -1,4 +1,6 @@
-![photo](2022-09-14_11-15-31.png){:style="float: right;"}
+<div style="float: right">
+  ![photo](2022-09-14_11-15-31.png){:style="float: right;"}
+</div>
 igor potakhin
 
 
