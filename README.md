@@ -1,7 +1,7 @@
 
-<table style="border: 0px none black;">
+<table>
   <tr>
-    <td>
+    <td style="border-width: 0px;">
       <img src="2022-09-14_11-15-31.png" alt="photo">
     </td>
     <td>
