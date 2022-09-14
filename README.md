@@ -1,7 +1,7 @@
 <img src="2022-09-14_11-15-31.png" align="left" width="150" height="150">
 
 ## Igor Potakhin
-##### Phone: +7.921.623.1771
+<em>Phone:</em> +7.921.623.1771
 ##### E-Mail: archimage@yandex.ru
 
 
