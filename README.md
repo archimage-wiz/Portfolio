@@ -1,8 +1,8 @@
 
-<table>
+<table style="border: 0;">
   <tr>
     <td>
-      <img src="2022-09-14_11-15-31.png" alt="photo" style="float: left">
+      <img src="2022-09-14_11-15-31.png" alt="photo">
     </td>
     <td>
       igor potakhin
