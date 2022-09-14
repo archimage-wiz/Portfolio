@@ -1,5 +1,5 @@
 
-<table style="border: none;">
+<table style="border: 0px none black;">
   <tr>
     <td>
       <img src="2022-09-14_11-15-31.png" alt="photo">
