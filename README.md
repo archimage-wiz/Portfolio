@@ -1,4 +1,4 @@
-![photo](2022-09-14_11-15-31.png)
+![photo](2022-09-14_11-15-31.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 igor potakhin
 
 
