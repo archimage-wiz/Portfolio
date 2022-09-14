@@ -5,9 +5,7 @@ Personal project history page.
 
 βeta ver. in progress.
 [HackerRank](https://www.hackerrank.com/archimage) area.
-
 [Replit](https://replit.com/@archimage) demo zone.
-
 [CodePen](https://codepen.io/archimage_wiz) demo page.
 
 ## catalog
