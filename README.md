@@ -14,8 +14,8 @@
 > .? (:)<br>
 
 ### Professional background
-> 1 Year study & development C++
-> 1 Year study & development Java
+> 1 Year study & development C++<br>
+> 1 Year study & development Java<br>
 > .?
 
 
