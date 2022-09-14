@@ -11,7 +11,12 @@
 > Java & C++ applications development.<br>
 > Web site & web applications development.<br>
 > Working with SQL DB.<br>
-> + coming soon. (:)<br>
+> .? (:)<br>
+
+### Professional background
+> 1 Year study & development C++
+> 1 Year study & development Java
+> .?
 
 
 #### Personal Pages
