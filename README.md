@@ -8,6 +8,10 @@
 βeta ver. in progress.<br>
 
 #### Professional skills
+> Java & C++ applications development.
+> Web site & web applications development.
+> Working with Databases: SQL.
+> + coming soon. (:)
 
 
 #### Personal Pages
