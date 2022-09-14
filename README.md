@@ -2,7 +2,7 @@
 # Igor Potakhin
 <strong>Phone:</strong> <em>+7.921.623.1771</em><br>
 <strong>E-Mail:</strong> <em>archimage@yandex.ru</em>
-<h4><font color="silver">C++ & Java - Developer</font></h4>
+<font color="silver">C++ & Java - Developer</font>
 
 βeta ver. in progress.<br>
 
