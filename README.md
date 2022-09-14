@@ -7,14 +7,16 @@
 
 βeta ver. in progress.<br>
 
+#### Professional skills
 
-## Personal Pages
+
+#### Personal Pages
 
 > [HackerRank](https://www.hackerrank.com/archimage) area.<br>
 > [Replit](https://replit.com/@archimage) demo zone.<br>
 > [CodePen](https://codepen.io/archimage_wiz) demo page.<br>
 
-## Projects Catalog
+#### Projects Catalog
 
 + [Life game demo](https://replit.com/@archimage/CPPCurs1Life)
 + ?
