@@ -1,6 +1,5 @@
 
-<img src="2022-09-14_11-15-31.png" alt="photo" style="float:right">
-igor potakhin
+<img src="2022-09-14_11-15-31.png" alt="photo" style="float:right"> igor potakhin
 
 βeta ver. in progress.<br>
 
