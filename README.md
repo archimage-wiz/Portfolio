@@ -1,8 +1,8 @@
 
 <table style="border-color: red;">
-  <tr style="border-style: none;">
-    <td style="border-style: none;">
-      <img src="2022-09-14_11-15-31.png" alt="photo" style="border-style: none;">
+  <tr style="border-color: red;">
+    <td style="border-color: red;">
+      <img src="2022-09-14_11-15-31.png" alt="photo" style="border-color: red;">
     </td>
     <td>
       igor potakhin
