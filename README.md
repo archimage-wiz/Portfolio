@@ -1,5 +1,7 @@
 <img src="2022-09-14_11-15-31.png" align="left" width="120" height="120">
+
 # igor potakhin
+
 βeta ver. in progress.<br>
 
 <br clear="left">
