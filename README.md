@@ -10,7 +10,7 @@
 #### Professional skills
 > Java & C++ applications development.<br>
 > Web site & web applications development.<br>
-> Working with Databases: SQL.<br>
+> Working with SQL DB.<br>
 > + coming soon. (:)<br>
 
 
