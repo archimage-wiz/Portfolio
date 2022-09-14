@@ -1,14 +1,6 @@
 
-<table style="border-color: red;">
-  <tr style="border-color: red;">
-    <td style="border-color: red;">
-      <img src="2022-09-14_11-15-31.png" alt="photo" style="border-color: red;">
-    </td>
-    <td>
-      igor potakhin
-    </td>
-  </tr>
-</table>
+<img src="2022-09-14_11-15-31.png" alt="photo" align="right">
+igor potakhin
 
 
 
