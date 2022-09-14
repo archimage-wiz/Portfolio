@@ -4,6 +4,10 @@
 <strong>Phone:</strong> <em>+7.921.623.1771</em><br>
 <strong>E-Mail:</strong> <em>archimage@yandex.ru</em><br>
 #### C++ & Java - Developer
+text 1
+text 2
+text 3
+text 4
 <br clear="left">
 
 βeta ver. in progress.<br>
