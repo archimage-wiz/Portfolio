@@ -1,14 +1,4 @@
-<style type="text/css">
-  .image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-  }
-</style>
-
-![photo](2022-09-14_11-15-31.png){: .image-left}
-
+![photo](2022-09-14_11-15-31.png){: style="float: right;"}
 igor potakhin
 
 
