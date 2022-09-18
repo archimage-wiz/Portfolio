@@ -21,7 +21,7 @@
 
 #### Personal Pages
 
-> [Habr career](https://career.habr.com/archimage_wiz)
+> [Habr career](https://career.habr.com/archimage_wiz)<br>
 > [HackerRank](https://www.hackerrank.com/archimage) area.<br>
 > [Replit](https://replit.com/@archimage) demo zone.<br>
 > [CodePen](https://codepen.io/archimage_wiz) demo page.<br>
