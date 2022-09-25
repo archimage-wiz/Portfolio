@@ -28,6 +28,6 @@
 
 #### Projects Catalog
 
-+ [Life game demo](https://replit.com/@archimage/CPPCurs1Life)
-+ ?
++ Life game demo [on Repl.it](https://replit.com/@archimage/CPPCurs1Life) [on GitHub](https://github.com/archimage-wiz/LifeGame_demo)
++ 
 
