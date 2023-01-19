@@ -1,8 +1,8 @@
 <img src="2022-09-14_11-15-31.png" align="left" width="160" height="160">
 
 ### Igor Potakhin
-<strong>Phone:</strong> <em>+7.921.623.1771</em> (MSG)<br>
-<strong>E-Mail:</strong> <em>archimage@yandex.com</em>
+<strong>Telegram:</strong> <em>[t.me/archimage_wiz](https://t.me/archimage_wiz)</em> <br>
+<strong>E-Mail:</strong> <em>[archimage@yandex.com](archimage@yandex.com)</em>
 ###### Amazing chunks - developer
 
 ### Professional background
