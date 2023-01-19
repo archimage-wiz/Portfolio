@@ -2,32 +2,19 @@
 
 ### Igor Potakhin
 <strong>Phone:</strong> <em>+7.921.623.1771</em><br>
-<strong>E-Mail:</strong> <em>archimage@yandex.ru</em>
-###### C++ & Java - Developer
-
-βeta ver. in progress.<br>
-
-#### Professional skills
-> Java & C++ applications development.<br>
-> Web site & web applications development.<br>
-> Working with SQL DB.<br>
-> .? (:)<br>
+<strong>E-Mail:</strong> <em>archimage@yandex.com</em>
+###### Amazing chunks - developer
 
 ### Professional background
-> 1 Year study & development C++<br>
-> 1 Year study & development Java<br>
-> .?
+> Python + PostreSQL + Git <br>
+> C# + Unity <br>
+> Java, HTML, CSS, Perl and C++ a little things.<br>
 
+#### Where to go to for something wonderful
+> Life game [demo](https://github.com/archimage-wiz/LifeGame_demo) on GitHub<br>
 
-#### Personal Pages
+> Habr [&#8721;](https://career.habr.com/archimage_wiz) page.<br>
+> [Hacker Rank](https://www.hackerrank.com/archimage) restricted zone.<br>
+> Replit [code run](https://replit.com/@archimage) site.<br>
 
-> [Habr career](https://career.habr.com/archimage_wiz) synopsis.<br>
-> [HackerRank](https://www.hackerrank.com/archimage) area.<br>
-> [Replit](https://replit.com/@archimage) demo zone.<br>
-> [CodePen](https://codepen.io/archimage_wiz) demo page.<br>
-
-#### Projects Catalog
-
-+ Life game demo [on Repl.it](https://replit.com/@archimage/CPPCurs1Life) [on GitHub](https://github.com/archimage-wiz/LifeGame_demo)
-+ 
 
