@@ -10,7 +10,7 @@
 > C# + Unity <br>
 > Java, HTML, CSS, Perl and C++ a little things.<br>
 
-#### Where to go to for something wonderful
+#### Where to go for something wonderful
 > Life game [demo](https://github.com/archimage-wiz/LifeGame_demo) on GitHub<br>
 
 > Habr [&#8721;](https://career.habr.com/archimage_wiz) page.<br>
