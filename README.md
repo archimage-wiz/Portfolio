@@ -2,7 +2,7 @@
 
 ### Igor Potakhin
 <strong>Telegram:</strong> <em>[t.me/archimage_wiz](https://t.me/archimage_wiz)</em> <br>
-<strong>E-Mail:</strong> <em>[archimage@yandex.com](archimage@yandex.com)</em>
+<strong>E-Mail:</strong> <em>[archimage@yandex.com](mailto:archimage@yandex.com)</em>
 ###### Amazing chunks - developer
 
 ### Professional background
