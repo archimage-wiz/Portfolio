@@ -8,7 +8,7 @@
 ### Professional background
 > Python + PostreSQL + Git <br>
 > C# + Unity <br>
-> Java, HTML, CSS, Perl and C++ a little things.<br>
+> Java, HTML, CSS, Perl and C++ for a little things.<br>
 
 #### Where to go for something wonderful
 > Life game [demo](https://github.com/archimage-wiz/LifeGame_demo) on GitHub<br>
