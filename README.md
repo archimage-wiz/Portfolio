@@ -17,4 +17,6 @@
 > [Hacker Rank](https://www.hackerrank.com/archimage) restricted zone.<br>
 > Replit [code run](https://replit.com/@archimage) site.<br>
 
+<img src="python_advanced.png" width="128" border=0>
+
 ###### Thank you for visit!
